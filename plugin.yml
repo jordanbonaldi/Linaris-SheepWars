@@ -1,0 +1,8 @@
+name: SheepWars
+author: Neferett
+version: 1.0.1
+main: net.neferett.linaris.sheepwars.SheepWarsPlugin
+commands:
+  sheepwars:
+    aliases: [sw]
+    permission: sheepwars.admin
